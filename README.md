@@ -19,3 +19,13 @@ https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-obj
 Building an image caption generator with Deep Learning with Tensorflow  
 https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f  
 
+Android Face Recognition with Deep Learning  
+https://github.com/Qualeams/Android-Face-Recognition-with-Deep-Learning-Test-Framework  
+
+Realtime object and face recognition on android using tensorflow object detection api  
+https://www.skcript.com/svr/realtime-object-and-face-detection-in-android-using-tensorflow-object-detection-api/  
+
+Face recognition: real time masks development  
+https://becominghuman.ai/face-recognition-realtime-masks-development-9d3a399b4c3  
+
+
