@@ -1,0 +1,12 @@
+Object-Detection
+-data/
+--test_labels.csv
+--train_labels.csv
+-images/
+--test/
+---testingimages.jpg
+--train/
+---testingimages.jpg
+--...yourimages.jpg
+-training
+-xml_to_csv.py
