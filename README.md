@@ -29,3 +29,8 @@ Face recognition: real time masks development
 https://becominghuman.ai/face-recognition-realtime-masks-development-9d3a399b4c3  
 
 
+On Device Neaural Net for Face Recognition  
+https://machinelearning.apple.com/2017/11/16/face-detection.html  
+
+Face Detection and Recognition  
+https://www.xenonstack.com/use-cases/data-science/face-detection-recognition/  
