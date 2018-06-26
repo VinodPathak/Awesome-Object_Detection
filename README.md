@@ -34,3 +34,9 @@ https://machinelearning.apple.com/2017/11/16/face-detection.html
 
 Face Detection and Recognition  
 https://www.xenonstack.com/use-cases/data-science/face-detection-recognition/  
+
+How to use tensorflow object detection api on windows 
+https://medium.com/@rohitrpatil/how-to-use-tensorflow-object-detection-api-on-windows-102ec8097699  
+
+
+
