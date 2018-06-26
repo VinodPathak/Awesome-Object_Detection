@@ -1,6 +1,9 @@
 # Awesome-Object_Detection
 Object Detection Links
 
+Cool Link:  
+https://pythonprogramming.net/creating-tfrecord-files-tensorflow-object-detection-api-tutorial/  
+
 Real Time object detection on Android using Tensorflow  
 https://medium.com/mindorks/detection-on-android-using-tensorflow-a3f6fe423349  
 
