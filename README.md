@@ -16,3 +16,6 @@ https://medium.freecodecamp.org/making-your-own-face-recognition-system-29a8e728
 Detecting Pikachu on Android using Tensorflow object detection API  
 https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-object-detection-15464c7a60cd  
 
+Building an image caption generator with Deep Learning with Tensorflow  
+https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f  
+
