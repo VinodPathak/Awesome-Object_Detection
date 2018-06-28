@@ -6,6 +6,9 @@ https://pythonprogramming.net/creating-tfrecord-files-tensorflow-object-detectio
 https://github.com/datitran/raccoon_dataset  
 http://androidkt.com/train-object-detection/  
 
+Object Detection with Tensorflow  
+https://www.oreilly.com/ideas/object-detection-with-tensorflow  
+
 Real Time object detection on Android using Tensorflow  
 https://medium.com/mindorks/detection-on-android-using-tensorflow-a3f6fe423349  
 
@@ -44,4 +47,5 @@ How to use tensorflow object detection api on windows
 https://medium.com/@rohitrpatil/how-to-use-tensorflow-object-detection-api-on-windows-102ec8097699  
 
 
+https://3sidedcube.com/guide-retraining-object-detection-models-tensorflow/  
 
