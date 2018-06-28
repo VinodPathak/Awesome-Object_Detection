@@ -4,6 +4,7 @@ Object Detection Links
 Cool Link:  
 https://pythonprogramming.net/creating-tfrecord-files-tensorflow-object-detection-api-tutorial/  
 https://github.com/datitran/raccoon_dataset  
+http://androidkt.com/train-object-detection/  
 
 Real Time object detection on Android using Tensorflow  
 https://medium.com/mindorks/detection-on-android-using-tensorflow-a3f6fe423349  
